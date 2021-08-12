@@ -93,9 +93,9 @@ a{
   clear: right;
 }*/
 hr{
-  border-top: 10px;
+  border-top: 20px;
   border-bottom: 0;
-  width: 10%;
+  width: 20%;
 border-color: grey;
   border-style: dotted;
   text-align: center;
